@@ -19,7 +19,7 @@ When the user clicks on their gym they will be shown all of the different workou
 
 If the user wants to add a new workout to their collection they press the plus button in the top right and get shown this sheet.
 
-<img src="assets/add-workout-view" width="200">
+<img src="assets/add-workout-view.png" width="200">
 
 And lastly when a user clicks on one of their workouts they get brought to this screen which shows all of their past weights to show their progression and they can add the new weight they want to change the workout to.
 
