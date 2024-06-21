@@ -11,16 +11,16 @@ This gives the user a very easy way to understand how the app works even when th
 
 After the User adds gyms to their collection the view will look like this.
 
-<img src="assets/demo/content-view.png" width="200">
+<img src="assets/content-view.png" width="200">
 
 When the user clicks on their gym they will be shown all of the different workouts with corresponding weights shown in a manner like so. 
 
-<img src="assets/demo/workout-view.png" width="200">
+<img src="assets/workout-view.png" width="200">
 
 If the user wants to add a new workout to their collection they press the plus button in the top right and get shown this sheet.
 
-<img src="assets/demo/add-workout-view" width="200">
+<img src="assets/add-workout-view" width="200">
 
 And lastly when a user clicks on one of their workouts they get brought to this screen which shows all of their past weights to show their progression and they can add the new weight they want to change the workout to.
 
-<img src="assets/demo/edit-workout-view.png" width="200">
+<img src="assets/edit-workout-view.png" width="200">
